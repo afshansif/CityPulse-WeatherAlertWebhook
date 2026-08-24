@@ -56,10 +56,10 @@ Router
         Respond: status = "alert"
 ```
 
-## Sample alert email
+## Backup alert email
 
 <p align="center">
-  <img src="email_alert.png" alt="Example alert email" width="70%">
+  <img src="email alert.png" alt="Backup alert email" width="70%">
 </p>
 
 ## Tech stack
