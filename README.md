@@ -22,7 +22,7 @@ CityPulse is a Flutter weather app paired with a Make.com automation. A user sea
 ## Architecture
 
 <p align="center">
-  <img src="weather_alert_webhook.png" alt="Make.com scenario flow" width="90%">
+  <img src="weather alert webhook.png" alt="Make.com scenario flow" width="90%">
 </p>
 
 ```
